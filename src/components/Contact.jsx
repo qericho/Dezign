@@ -1,7 +1,8 @@
 import Mail from '../assets/img/mail.png'
 import Behance from '../assets/img/behance.png'
 import Dribble from '../assets/img/dribble.png'
-import LinkedIn from '../assets/img/linkedIn.png'
+import LinkedIn from '../assets/img/linkedin.png'
+
 const Contact = () => {
   return (
     <section className="my-10" id='contact'>
