@@ -8,7 +8,6 @@ const Clients = () => {
             <h1 className="leading-snug md:leading-loose max-w-[300px] md:max-w-[400px] text-2xl md:text-3xl text-[#e3e4e6a4]">Some of the
                  <span className="text-white font-bold"> clients I have
                         designed for </span> </h1>
-
           <ClientSlider/>
       </div>
        
