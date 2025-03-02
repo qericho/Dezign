@@ -22,7 +22,8 @@ const Works = () => {
             des="Lorem ipsum dolor sit amet, consectetur" 
             desBold=" adipiscing elit. Ultrices lorem non feugiat egestas amet."
             type="Mobile App"/>
-            <Work swap={true}
+            <Work
+             swap={true}
             work1={Work3}
             title="Logo Animation" 
             des="Lorem ipsum dolor sit amet, consectetur" 
