@@ -1,4 +1,4 @@
-import Mail from '../assets/img/Mail.png'
+import Mail from '../assets/img/mail.png'
 import Behance from '../assets/img/behance.png'
 import Dribble from '../assets/img/dribble.png'
 import LinkedIn from '../assets/img/linkedin.png'
