@@ -1,6 +1,6 @@
-import About1 from '../assets/img/About1.png'
-import About2 from '../assets/img/About2.png'
-import About3 from '../assets/img/About3.png'
+import About1 from '../assets/img/about1.png'
+import About2 from '../assets/img/about2.png'
+import About3 from '../assets/img/about3.png'
 
 const About = () => {
   return (
